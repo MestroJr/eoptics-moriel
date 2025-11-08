@@ -3,8 +3,7 @@
 Proyecto listo para Vercel.
 
 Credenciales iniciales:
-- Email: abdiel@moriel.local
-- Contraseña: MARTOSJR
+-
 
 Instrucciones:
 1. Copia .env.example a .env.local y configura JWT_SECRET.
